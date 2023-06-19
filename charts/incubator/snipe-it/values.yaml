@@ -25,7 +25,7 @@ env:
   APP_TIMEZONE: "{{ .Values.TZ }}"
   FILESYSTEM_DISK: "local"
   # User Defined
-  APP_URL: "http://localhost:80"
+  #APP_URL: "http://localhost:80"
   # APP_FORCE_TLS: false
   # APP_TRUSTED_PROXIES: "172.16.0.0/16"
   APP_LOCALE: "en"
